@@ -1557,8 +1557,8 @@
 	body, input, select, textarea {
 		color: #6a6a6a;
 /*        #888*/
-        font-family: "Futura","Trebuchet MS",Arial,Tahoma,sans-serif," Microsoft JhengHei","STHeiti Light",; 
-/*        font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif*/
+/*        font-family: "Futura","Trebuchet MS",Arial,Tahoma,sans-serif," Microsoft JhengHei","STHeiti Light",; */
+        font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif
 /*        font-family: Candara,Calibri,Segoe,"Segoe UI",Optima,Arial,sans-serif*/
 /*		font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;*/
 /*        "Lato", sans-serif;*/
@@ -1620,11 +1620,13 @@
 		line-height: 1.5em;
 	}
     
+/*
     h3.quote{
         
         font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold";
     
     }
+*/
 
 	h4 {
 		font-size: 1.25em;
